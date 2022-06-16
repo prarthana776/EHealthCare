@@ -1,0 +1,32 @@
+ {
+    "productData": [
+        {
+            "id": 1,
+            "img": "https://insightplus.mja.com.au/wp-content/uploads/2021/04/paracetamol-for-osteoarthritis-pain-arguably-clinically-insignificant-645.jpg",
+            "title": "Crocin",
+            "desc": "",
+            "price": 56
+        },
+        {
+            "id": 2,
+            "img": "https://s1.dmcdn.net/v/QE57y1SyFFhL4QDPF/x1080",
+            "title":"Cough Syrup" ,
+            "desc": "",
+            "price": 90
+        },
+        {
+            "id": 3,
+            "img": "https://archerconcepts.co.nz/images/products/medical/main/1254_3_Thermometer4.jpg",
+            "title": "Thermometer",
+            "desc": "",
+            "price": 550
+        },
+        {
+            "id": 4,
+            "img": "https://images.outlookindia.com/public/uploads/articles/2021/1/18/covaxin-1603676480_570_850_571_855.jpg",
+            "title":"Covaxine" ,
+            "desc": "",
+            "price": 200
+        }   
+    ]
+}

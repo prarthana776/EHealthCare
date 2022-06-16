@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1001,
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "123"
+    },
+    {
+      "username": "talukd",
+      "email": "user2@gmail.com",
+      "password": "123",
+      "id": 1002
+    },
+    {
+      "username": "user3",
+      "email": "eve.holt@reqres.in",
+      "password": "cityslick",
+      "id": 1003
+    }
+  ]
+}
